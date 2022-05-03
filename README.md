@@ -10,6 +10,7 @@ Given three buildings at (0,0), (0,4), (2,2), and an obstacle at (0,2):
 0 - 0 - 0 - 0 - 0
 
 0 - 0 - 1 - 0 - 0
+
 The point (1,2) is an ideal empty land to build a house, as the total travel distance of 3+3+1=7 is minimal.
 Return 7.
 
