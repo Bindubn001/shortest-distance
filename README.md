@@ -3,6 +3,7 @@
 Each 0 marks an empty land which you can pass by freely.
 Each 1 marks a building which you cannot pass through.
 Each 2 marks an obstacle which you cannot pass through.
+BFS is used for traversal.
 Given three buildings at (0,0), (0,4), (2,2), and an obstacle at (0,2):
 
 1 - 0 - 2 - 0 - 1
